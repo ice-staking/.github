@@ -1,1 +1,1 @@
-<img width="1280" alt="Github Banner" src="https://github.com/user-attachments/assets/1d42d0cd-fbf6-462d-97da-5c175c3091c0">
+<img width="1500" alt="twitter banner" src="https://github.com/user-attachments/assets/0fe1b45a-bebf-46da-a5be-591c730e5f35">
